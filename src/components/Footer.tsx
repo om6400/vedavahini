@@ -4,6 +4,7 @@ import { Facebook, Twitter, Instagram, Youtube, Mail, Phone, MapPin } from 'luci
 import Particles from "react-tsparticles";
 import { loadFull } from "tsparticles";
 import MandalaShader from './MandalaShader';
+import FestivalCalendarSection from "./FestivalCalendarSection";
 
 const Footer: React.FC = () => {
   const footerLinks = {
@@ -156,21 +157,6 @@ const Footer: React.FC = () => {
                     </a>
                   </li>
                 ))}
-                {/* Add festivals link for 'For Devotees' section */}
-                {title === 'For Devotees' && (
-                  <>
-                    <li>
-                      <a href="/festivals" className="text-orange-400 underline hover:text-orange-300">
-                        See All Festivals →
-                      </a>
-                    </li>
-                    <li>
-                      <a href="/festival-calendar" className="text-orange-400 underline hover:text-orange-300">
-                        Festival Calendar
-                      </a>
-                    </li>
-                  </>
-                )}
               </ul>
             </motion.div>
           ))}
@@ -248,6 +234,8 @@ const Footer: React.FC = () => {
           </p>
         </motion.div>
       </div>
+
+      <FestivalCalendarSection />
     </footer>
   );
 };

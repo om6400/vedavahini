@@ -9,7 +9,7 @@ import ContactForm from './components/ContactForm';
 import Footer from './components/Footer';
 import FestivalsPage from './pages/FestivalsPage';
 import FestivalDetailPage from './pages/FestivalDetailPage';
-import FestivalCalendar from './components/FestivalCalendar';
+import FestivalCalendarSection from './FestivalCalendarSection';
 
 function App() {
   return (
@@ -34,7 +34,7 @@ function App() {
             <Route path="/festivals" element={<FestivalsPage />} />
             <Route path="/festivals/:slug" element={<FestivalDetailPage />} />
             <Route path="/festival/:slug" element={<FestivalDetailPage />} />
-            <Route path="/festival-calendar" element={<FestivalCalendar />} />
+            <Route path="/festival-calendar" element={<FestivalCalendarSection />} />
           </Routes>
         </main>
         <Footer />
