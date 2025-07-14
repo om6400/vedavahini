@@ -1,0 +1,68 @@
+[
+  {
+    "slug": "guru-purnima",
+    "name": "Guru Purnima",
+    "date": "2025-07-21",
+    "image": "/images/guru-purnima.jpg",
+    "muhurat": "5:45 AM – 10:15 AM",
+    "description": "Guru Purnima is a spiritual tradition dedicated to spiritual and academic teachers...",
+    "poojaVidhi": [
+      "Wake up early and take a holy bath.",
+      "Place a photo or idol of your Guru or spiritual teacher.",
+      "Offer flowers, fruits, and chant 'Guru Brahma Guru Vishnu...'.",
+      "Perform aarti and recite Guru mantra."
+    ]
+  },
+  {
+    "slug": "raksha-bandhan",
+    "name": "Raksha Bandhan",
+    "date": "2025-08-09",
+    "image": "/images/raksha-bandhan.jpg",
+    "muhurat": "8:00 AM – 12:00 PM",
+    "description": "Celebrates the bond between brothers and sisters.",
+    "poojaVidhi": [
+      "Sisters tie rakhi on brothers' wrists.",
+      "Perform aarti and offer sweets.",
+      "Pray for each other's well-being."
+    ]
+  },
+  {
+    "slug": "janmashtami",
+    "name": "Janmashtami",
+    "date": "2025-08-16",
+    "image": "/images/janmashtami.jpg",
+    "muhurat": "10:30 PM – 12:00 AM",
+    "description": "Marks the birth of Lord Krishna.",
+    "poojaVidhi": [
+      "Decorate Krishna idol.",
+      "Offer butter and sweets.",
+      "Sing bhajans and perform aarti."
+    ]
+  },
+  {
+    "slug": "ganesh-chaturthi",
+    "name": "Ganesh Chaturthi",
+    "date": "2025-08-29",
+    "image": "/images/ganesh-chaturthi.jpg",
+    "muhurat": "6:00 AM – 8:30 AM",
+    "description": "Festival celebrating the birth of Lord Ganesha.",
+    "poojaVidhi": [
+      "Install Ganesh idol.",
+      "Offer modaks and flowers.",
+      "Chant Ganesh mantras and perform aarti."
+    ]
+  },
+  {
+    "slug": "navratri",
+    "name": "Navratri",
+    "date": "2025-09-22",
+    "image": "/images/navratri.jpg",
+    "muhurat": "6:00 PM – 9:00 PM",
+    "description": "Nine nights dedicated to Goddess Durga.",
+    "poojaVidhi": [
+      "Set up Durga idol.",
+      "Offer flowers and prasad.",
+      "Perform daily aarti and recite Durga stuti."
+    ]
+  }
+]
