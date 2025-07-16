@@ -9,7 +9,8 @@ import ContactForm from './components/ContactForm';
 import Footer from './components/Footer';
 import FestivalsPage from './pages/FestivalsPage';
 import FestivalDetailPage from './pages/FestivalDetailPage';
-import FestivalCalendarSection from './FestivalCalendarSection';
+import FestivalCalendarSection from "./components/FestivalCalendarSection";
+
 
 function App() {
   return (
