@@ -1,4 +1,5 @@
 import React from 'react';
+import ScrollHero from './ScrollHero';
 import { motion } from 'framer-motion';
 import { BrowserRouter, Routes, Route } from 'react-router-dom';
 import Header from './components/Header';
@@ -15,6 +16,7 @@ import FestivalCalendarSection from "./components/FestivalCalendarSection";
 function App() {
   return (
     <BrowserRouter>
+      <ScrollHero />
       <motion.div
         className="min-h-screen bg-white"
         initial={{ opacity: 0 }}
