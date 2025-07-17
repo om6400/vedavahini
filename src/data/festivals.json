@@ -1,0 +1,28 @@
+[
+  {
+    "name": "Guru Purnima",
+    "slug": "guru-purnima",
+    "date": "2025-07-21",
+    "description": "A special day dedicated to honoring spiritual teachers.",
+    "icon": "🪷",
+    "image": "/images/festivals/guru-purnima.jpg"
+  },
+  {
+    "name": "Nag Panchami",
+    "date": "2025-08-02",
+    "description": "A day for worshipping serpent deities, with offerings of milk.",
+    "icon": "🪔"
+  },
+  {
+    "name": "Raksha Bandhan",
+    "date": "2025-08-19",
+    "description": "Celebrates the loving bond between siblings.",
+    "icon": "🌼"
+  },
+  {
+    "name": "Janmashtami",
+    "date": "2025-08-26",
+    "description": "The divine birthday of Lord Krishna.",
+    "icon": "🎊"
+  }
+]
